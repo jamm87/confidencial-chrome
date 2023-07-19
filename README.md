@@ -3,6 +3,8 @@ Elimina la capa de pago de El Confidencial
 
 Para instalarlo:
 
+descarga el paquete, descomprímelo y luego cargalo en Chrome así:
+
 Cargar el complemento:
 Abre Google Chrome y ve a la página de administración de extensiones (chrome://extensions).
 Activa el "Modo desarrollador" en la parte superior derecha.
