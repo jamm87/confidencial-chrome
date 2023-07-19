@@ -1,0 +1,10 @@
+.newsType__content--closed {
+    display: block !important;
+    /* Agrega aquí cualquier otra propiedad que desees modificar */
+  }
+.newsType__content {
+    display: none;
+}
+.news-body-summary {
+    display: none;
+}
