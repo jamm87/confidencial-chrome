@@ -1,6 +1,8 @@
 # confidencial-chrome
 Elimina la capa de pago de El Confidencial
 
+OJO! El scrpt afecta al resto de la web, por lo que en los artículos no premium, se bloquea contenido (No se por qué, no soy programador jajajaj)
+
 Para instalarlo:
 
 1.- Descarga el paquete
